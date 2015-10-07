@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Defridgerator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="refrigerate">Refrigerate</string>
+    <string name="defrigerate">Defrigerate</string>
+    <string name="title_activity_refrigerate">Refrigerate</string>
+    <string name="title_activity_defrigerate">Defrigerate</string>
+
+    <string name="contents_key" translatable = "false">contents_key</string>
+
+    <!-- For inputting items into refrigerator -->
+    <string name="title_text">Got Food? Enter it below!</string>
+    <string name="name_of_item">Item</string>
+    <string name="exp_date">Expiration Date</string>
+    <string name="add_button">Add to Fridge!</string>
+    <string name="hint_name">Name of the item</string>
+    <string name="hint_date">mm/dd/yy</string>
+    <string name="amount_textview">Enter the amount:</string>
+    <string name="hint_amount">Amount of item</string>
+
+    <!-- Viewing data -->
+    <string name="view_all_items">View all items</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+</resources>
